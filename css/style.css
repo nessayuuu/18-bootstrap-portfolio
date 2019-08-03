@@ -68,6 +68,9 @@ body {
     align-items: center;
     text-align: center;
 }
+.card-header {
+    text-align: center !important;
+}
 @media (max-width: 575.98px) { ... }
 @media (min-width: 576px) and (max-width: 767.98px) { ... }
 @media (min-width: 768px) and (max-width: 991.98px) { ... }
